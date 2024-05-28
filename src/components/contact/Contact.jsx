@@ -38,8 +38,8 @@ const Contact = () => {
       </div>
       <div className="contact-section">
         <div className="contact-left">
-          <h1>Let's Talk</h1>
-          <p>I'm currently available to take on new projects, so feel free to contact us</p>
+          <h1>Lets Talk</h1>
+          <p>I am currently available to take on new projects so feel free to contact us</p>
           <div className="contact-details">
             <div className="contact-detail">
              <img src={mail_icon} alt="" /> <p>mohsinprist34@gmail.com</p>
